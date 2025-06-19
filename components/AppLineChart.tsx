@@ -1,6 +1,5 @@
 "use client";
 
-import { ChartArea } from "lucide-react";
 import {
   ChartConfig,
   ChartContainer,
